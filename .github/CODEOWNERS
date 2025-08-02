@@ -1,0 +1,19 @@
+# Automatically request reviews from code owners on PRs
+
+# Core system architecture and orchestration
+/src/core/        @nathonfowlie
+
+# Agent implementations
+/src/agents/      @nathonfowlie
+
+# CLI interface
+/src/cli/         @nathonfowlie
+
+# Parsers (e.g. CTRF, roadmap, OKRs)
+/src/parsers/     @nathonfowlie
+
+# Docs
+/docs/            @nathonfowlie
+
+# Tests
+/tests/           @nathonfowlie

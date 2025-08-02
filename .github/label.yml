@@ -1,0 +1,24 @@
+# Issue and PR title/content based auto-labels
+
+bug:
+  - '[BUG]'
+  - 'bug'
+  - 'fix'
+  - 'error'
+  - 'fail'
+
+enhancement:
+  - '[FEATURE]'
+  - 'feature'
+  - 'enhancement'
+  - 'improve'
+
+documentation:
+  - '[DOC]'
+  - 'docs'
+  - 'documentation'
+
+support:
+  - '[SUPPORT]'
+  - 'help'
+  - 'question'
